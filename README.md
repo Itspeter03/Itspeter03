@@ -10,20 +10,19 @@
 ---
 
 ### 🌐 Connect with Me
-### 🌐 Connect with Me
 
 <p align="left">
   <a href="https://linkedin.com/in/issac-rohit-peter" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="https://twitter.com/irpeter7" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023.svg" alt="X (Twitter)" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="X (Twitter)" width="40" height="40"/>
   </a>
   <a href="https://instagram.com/notalwayspeter" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" width="40" height="40"/>
   </a>
   <a href="mailto:issacrohitpeter@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" alt="Gmail" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Gmail" width="40" height="40"/>
   </a>
 </p>
 
