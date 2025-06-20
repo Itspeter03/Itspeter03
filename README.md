@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Issac Rohit Peter</h1>
-<h3 align="center">Frontend Developer | Creative Thinker | Lifelong Learner from India 🇮🇳</h3>
+<h3 align="center"> 🎓 BCA Graduate | 💻 Web Developer | 🚀 Passionate about building smarter web experiences </h3>
 
 ---
 
@@ -55,4 +55,41 @@
 ---
 
 > 💡 *“Don't compare yourself with others. Compare yourself with the person you were yesterday.”*
+>
+> # 👋 Hi, I'm Peter (itspeter03)
+
+🎓 BCA Graduate | 💻 Web Developer | 🚀 Passionate about building smarter web experiences
+
+- 🌐 I build modern, responsive websites with **React**, **Tailwind CSS**, **JavaScript**
+- 🤖 Exploring AI-enhanced development (e.g., ChatGPT-assisted features)
+- 📫 Connect with me on [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN) or [Email](mailto:youremail@example.com)
+
+---
+
+## 🛠️ Tech & Tools
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript)
+![React](https://img.shields.io/badge/React-20232A?logo=react)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase)
+![Github Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+![itspeter03’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=itspeter03&show_icons=true&theme=radical)
+
+---
+
+## 🚀 What I’m Working On
+- 🔭 Building a **doctor appointment booking system** using React + Firebase
+- 🌱 Learning to integrate AI-powered chatbots into web apps for smarter UX
+- 💬 Writing tutorials on dev.to about React tips & AI tools
+
+---
+
+## 🌟 Let’s Connect!
+I love collaborating on fresh ideas—feel free to reach out!
+
 
