@@ -1,33 +1,45 @@
 <h1 align="center">Hey 👋, I'm Issac Rohit Peter</h1>
-<h3 align="center"> 🎓 BCA Graduate | 💻 Web Developer | 🚀 Passionate about building smarter web experiences </h3>
+<h3 align="center">🎓 BCA Graduate | 💻 Web Developer | 🚀 Passionate about Building Smarter Web Experiences</h3>
 
 ---
 
-- 🌐 I build modern, responsive websites with **React**, **Tailwind CSS**, **JavaScript**
-- 🤖 Exploring AI-enhanced development (e.g., ChatGPT-assisted features)
-- 📫 Reach me at: **issacrohitpeter@gmail.com**
-
+- 🌐 I build modern, responsive websites using **React**, **Vite**, **Tailwind CSS**, and **JavaScript**
+- 🤖 Exploring AI-assisted workflows using tools like **ChatGPT** and **Blackbox AI**
+- 🎯 Focused on performance, clean design, and scalable frontend architecture
+  
 ---
 
 ### 🌐 Connect with Me
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
-<a href="https://twitter.com/irpeter7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="irpeter7" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/issac rohit peter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="issac rohit peter" height="30" width="40" /></a>
-<a href="https://instagram.com/notalwayspeter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="notalwayspeter" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/issac-rohit-peter" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/irpeter7" target="_blank">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
+  </a>
+  <a href="https://instagram.com/notalwayspeter" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:issacrohitpeter@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </p>
+
 ---
 
 ### ⚒️ Tech Stack & Tools
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" alt="Vite" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
 </p>
 
 ---
@@ -44,14 +56,13 @@
 ### 🚀 Projects I'm Proud Of
 
 - 🎨 **[Doctor Appointment Booking System](https://github.com/itspeter03/your-project-link)** – Designed & documented full UI
-- 🕰️ **Rolex Website Clone** – Modern clone using HTML, CSS, JS (WIP)
+- 🕰️ **Rolex Website Clone** – Responsive design using HTML, CSS, JS (WIP)
 - 🛠️ More projects coming soon...
 
 ---
 
-## 🌟 Let’s Connect!
-I love collaborating on fresh ideas—feel free to reach out!
----
+## 🌟 Let's Connect!
+I love collaborating on creative, purposeful projects — feel free to reach out!
 
-> 💡 *“Don't compare yourself with others. Compare yourself with the person you were yesterday.”*
->
+> 💡 *“Don’t compare yourself with others. Compare yourself with the person you were yesterday.”*
+
