@@ -125,8 +125,7 @@
 
 ### 🚀 Projects I'm Proud Of
 
-- 🎨 **[Doctor Appointment Booking System](https://github.com/itspeter03/your-project-link)** – Designed & documented full UI
-- 🕰️ **Rolex Website Clone** – Responsive design using HTML, CSS, JS (WIP)
+- 🎨 **[Doctor Appointment Booking System](https://github.com/itspeter03/your-project-link)** 
 - 🛠️ More projects coming soon...
 
 ---
